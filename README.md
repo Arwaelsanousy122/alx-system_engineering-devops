@@ -1,3 +1,1 @@
-#!/bin/bash
-My amazing new repo for shell projects 
-
+README_HERE
